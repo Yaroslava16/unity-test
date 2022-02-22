@@ -16,7 +16,7 @@
         >
       </li>
       <li>
-        <n-link class="side-bar__nav-link" :to="'/'">
+        <n-link class="side-bar__nav-link" :to="'/exchange'">
           <svg class="side-bar__nav-icon">
             <use href="~/assets/svg/symbol-defs.svg#icon-home"></use>
           </svg>
@@ -29,10 +29,6 @@
 
 <script>
 export default {
-  props: {
-    btn: {},
-    mobile: false,
-  },
 };
 </script>
 

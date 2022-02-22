@@ -12,7 +12,8 @@ export default {
   data() {
     return {
       btn: {
-        img: require("~/assets/svg/cross.svg"),
+        imgCross: require("~/assets/svg/cross.svg"),
+        img: require("~/assets/svg/menu.svg"),
       },
     };
   },

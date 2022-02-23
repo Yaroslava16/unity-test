@@ -1,6 +1,6 @@
 <template>
   <div>
-    <SideBar />
+    <!-- <SideBar  /> -->
     <Header />
   </div>
 </template>
